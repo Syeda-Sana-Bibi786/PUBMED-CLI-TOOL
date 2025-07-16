@@ -1,3 +1,7 @@
+
+## Demo
+https://github.com/user-attachments/assets/526a29a8-7b99-4254-9192-6a077b4ee2c8
+
 # PUBMED CLI - get-papers-list
 A python CLI tool to fetch PubMed research papers and extract details like PubmedID,Title,Publication Date,Non-academic Author(s),Company Affiliation(s) & Corresponding Author Email (if available) into a CSV file.
 ## Project Structure
